@@ -11,4 +11,40 @@
 
 .whitBGD {
     background-color: white;
+    margin: 0 auto;
+    width: 30%;
+    padding: 15px;
 }
+
+.outerLine {
+    margin: 0 auto;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    margin: 12px;
+    padding: 20px;
+}
+
+.heading {
+    padding-top: 1%;
+    padding-bottom: 5%;
+}
+.pic {
+    padding-bottom: 5%;
+    width: 100%;
+}
+
+.secondBox {
+    border: 1px solid rgba(0, 0, 0, 0.2) ;
+    padding: 10px 5px 10px 5px;
+}
+
+.firstPara,
+.Xtics,
+.lastPara {
+    margin-bottom: 10px;
+}
+
+.firstPara {
+    font-style: italic;
+}
+
+
