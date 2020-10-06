@@ -4,3 +4,11 @@
     border: 0;
     text-decoration: none;
 }
+
+.blackBGD {
+    background-color: black;
+}
+
+.whitBGD {
+    background-color: white;
+}
