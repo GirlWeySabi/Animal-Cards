@@ -21,7 +21,7 @@ https://raw.githack.com/olufunke1011/Hotel.ng-Clone/main/index.html
 
 ## Visuals
 
-![Display_Preview](/Assets/Images/hotels.ngclone.png "page_preview")
+![Display_Preview](/Asset/images/animalCard pics.png "page_preview")
 
 ## Author
 
