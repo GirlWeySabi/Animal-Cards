@@ -21,7 +21,7 @@ https://raw.githack.com/GirlWeySabi/Animal-Cards/CSS-Branch/index.html
 
 ## Visuals
 
-![Display_Preview](Asset/images/animalCard pics.png "page_preview")
+![Display_Preview](/Asset/images/animalCard pics.png "page_preview")
 
 ## Author
 
