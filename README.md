@@ -1,10 +1,10 @@
 # Animal-Cards
-this disegn is about clun fish and how it walks
+This design is talks about clown fish
 
 
 ## Description
 
-using grid layout to clone a website
+cloning a clown fish template
 
 ## Live Demo
 
