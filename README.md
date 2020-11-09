@@ -8,7 +8,7 @@ using grid layout to clone a website
 
 ## Live Demo
 
-https://raw.githack.com/olufunke1011/Hotel.ng-Clone/main/index.html
+https://raw.githack.com/GirlWeySabi/Animal-Cards/CSS-Branch/index.html
 
 ## Dependencies
 
@@ -21,7 +21,7 @@ https://raw.githack.com/olufunke1011/Hotel.ng-Clone/main/index.html
 
 ## Visuals
 
-![Display_Preview](/Asset/images/animalCard pics.png "page_preview")
+![Display_Preview](Asset/images/animalCard pics.png "page_preview")
 
 ## Author
 
